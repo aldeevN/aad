@@ -1,5 +1,4 @@
 import React from "react"
-import LendingNavigation from "./LendingNavigation/LendigNavigation"
 import LendingAboutUs from "./LendingAboutUs/LendingAboutUs"
 import LendingContactInfo from "./LendingContactInfo/LendingsContactInfo"
 
